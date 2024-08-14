@@ -4,7 +4,7 @@ A Full Stack Online Private Tutor Finding Website
 Are you tired of finding private tutors for you? or for your family? Then this website is gonna be for you! We have got some of the best teachers available out there. 
 Visit our website right now! And start connecting with tutors!!!
 
-This site is live at - https://tutormate.onrender.com
+This site is not live
 <br />
 
 ## Tech Stack 🗃
